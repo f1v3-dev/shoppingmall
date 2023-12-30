@@ -13,12 +13,15 @@
 - Servlet/JSP를 사용하여 MVC(Model, View, Controller) 패턴으로 개발하였습니다.
 
   - **Model**
+
   ![Model](./img/Model.png)
   
   - **View**
+  
   ![View](./img/View.png)
   
   - **Controller**
+  
   ![Controller](./img/Controller.png)
 
 
