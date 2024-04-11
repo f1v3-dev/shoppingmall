@@ -15,17 +15,6 @@
 ### MVC Pattern
 효율적인 개발을 위해 Servlet/JSP를 활용하여 MVC(Model, View, Controller) 패턴을 구현하였습니다.
 
-- **Model**
-
-![Model](./img/Model.png)
-  
-- **View**
-
-![View](./img/View.png)
-  
-- **Controller**
-
-![Controller](./img/Controller.png)
 
 ### Custom Annotation
 Java Reflection API를 활용하여 Annotation Custom을 수행하여 스프링에서 제공하는 `@RequestMapping`과 유사한 어노테이션을 구현하였습니다. 이를 통해 모든 Controller를 효율적으로 관리하였습니다.
